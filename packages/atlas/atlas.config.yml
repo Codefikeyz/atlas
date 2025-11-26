@@ -1,11 +1,11 @@
 general:
-  appName: Gleev # Application name - used in the copy throughout the app, in index.html, open graph meta tags, etc. Don't use env variables here
-  appDescription: 'The streaming platform empowering viewers, creators, and builders. Built on and operated by the Joystream blockchain and DAO.' # Application description - used in index.html meta tags
-  appTagline: 'The streaming platform empowering viewers, creators, and builders. Built on and operated by the Joystream blockchain and DAO.'
+  appName: Dynora # Application name - used in the copy throughout the app, in index.html, open graph meta tags, etc. Don't use env variables here
+  appDescription: 'Dynora: Your gateway to the Joystream Network — empowering creators, viewers, and innovators through decentralized streaming.' # Application description - used in index.html meta tags
+  appTagline: 'Your gateway to the Joystream Network — decentralized, creator-driven, and built for the future of streaming.'
   appId: '$VITE_APP_ID' # App ID for Apps as first-class citizens
   appTwitterId: '@JoystreamDAO' # Twitter handle for the app - used in open graph meta tags in HTML
   appUrl: 'https://play.joystream.org' # URL at which the app is hosted - used in open graph meta tags in HTML
-  appGithubUrl: 'https://github.com/Joystream/atlas' # URL for Atlas GitHub repository - used in the footer
+  appGithubUrl: 'https://github.com/Codefikeyz/atlas' # URL for Atlas GitHub repository - used in the footer
   appOgImgPath: '/og-image.webp' # Path to the open graph image - used in open graph meta tags in HTML
   pioneerMemberUrlPrefix: 'https://dao.joystream.org/#/members' # URL prefix for Pioneer member profile page - used to link to member details
   joystreamLandingPageUrl: 'https://www.joystream.org' # URL for Joystream landing page - used in the footer and in "Learn more" links
@@ -584,10 +584,9 @@ legal:
     Proin urna volutpat pharetra, tellus. Quam purus integer tempus habitant volutpat pellentesque.
   termsOfService: |
     # Terms of Service
+    Last updated on the 26th of November 2025
 
-    Last updated on the 4th of December 2023
-
-    This Terms of Service ("Agreement") is a binding obligation between you ("User") and Jsgenesis AS ("Company", "We", "Us", "Our") for use of our Joystream Player interface ("$VITE_APP_NAME") hosted at play.joystream.org and all other products (collectively "Software") developed and published by Us.
+    This Terms of Service ("Agreement") is a binding obligation between you ("User") and Dynora AS ("Dynora", "We", "Us", "Our") for use of our Dynora interface ("$VITE_APP_NAME") hosted at dyn.ora and all other products (collectively "Software") developed and published by Us.
 
     ## 1. Agreement to Terms
 
@@ -595,17 +594,17 @@ legal:
 
     ## 2. Changes to Terms
 
-    This Agreement may be modified or updated at the sole discretion of Company in a unilateral way, without prior notice. In case of significant change of terms the Company takes the obligation to take reasonable efforts to notify its customers about the change of the Terms.
+    This Agreement may be modified or updated at the sole discretion of Dynora in a unilateral way, without prior notice. In case of significant change of terms, Dynora takes the obligation to make reasonable efforts to notify its users about the change of the Terms.
 
-    This may take a non-personalised form, such as a banner in the app for all users, post on Company's Discord server channel or Company's social media accounts. It is your obligation to follow the Company's communication channels to stay informed about the changes. 
+    This may take a non-personalised form, such as a banner in the app for all users, post on Dynora's Discord server channel or Dynora's social media accounts. It is your obligation to follow Dynora's communication channels to stay informed about the changes.
 
-    Upon the receipt of the notification you may choose to continue using the software, or conduct cessation of services via request to remove your membership and channel from Joystream Network. This request must be sent via email to leave@jsgenesis.com. 
+    Upon the receipt of the notification, you may choose to continue using the Software, or request cessation of services via request to remove your membership and channel from Dynora Platform. This request must be sent via email to leave@dyn.ora.
 
     Your continued use of our Software is confirmation of your acceptance of the latest Agreement.
 
     ## 3. Privacy Policy
 
-    Please see our Privacy Policy [(https://gleev.xyz/legal/privacyPolicy)](https://gleev.xyz/legal/privacyPolicy/) for information regarding privacy.
+    Please see our Privacy Policy [(https://dyn.ora/legal/privacyPolicy)](https://dyn.ora/legal/privacyPolicy/) for information regarding privacy.
 
     ## 4. Membership
 
@@ -615,35 +614,36 @@ legal:
     - Deleting accounts and backups
     - Security breaches
 
-    Under no circumstance will Company take any responsibility for loss resulting from losing access to Membership or Keys.
+     Under no circumstance will Dynora take any responsibility for loss resulting from losing access to Membership or Keys.
 
     ## 5. User Conduct
 
-    By using Our Software, you agree to not state, write, link to, download, distribute, share or encourage other users to state, write, link to, download, distribute, share or encourage anything that:
-    - breach or infringe any copyright or intellectual property of any third party.
+    By using Our Software, you agree not to state, write, link to, download, distribute, share or encourage other users to state, write, link to, download, distribute, share or encourage anything that:
+    - breaches or infringes any copyright or intellectual property of any third party;
     - is abusive, malicious, threatening or unlawful in any way.
 
-    Company has not reviewed all content published on our services, and is not responsible for content submitted or provided by individuals or groups not directly tied to them.
+    Dynora has not reviewed all content published on our services, and is not responsible for content submitted or provided by individuals or groups not directly tied to them.
 
     ## 6. Responsibilities and Risks
 
-    In no event shall Company, its contractors, employees or owners be liable for any damage or loss of any kind to User arising out of the use or inability to use any Software made by Company. In no event shall Company, its contractors, employees or owners be liable for any damage or loss of any kind to User resulting of clicking links, following guides, using software or doing anything else recommended by Company.
+    In no event shall Dynora, its contractors, employees or owners be liable for any damage or loss of any kind to User arising out of the use or inability to use any Software made by Dynora. In no event shall Dynora, its contractors, employees or owners be liable for any damage or loss of any kind to User resulting from clicking links, following guides, using software or doing anything else recommended by Dynora.
 
     ## 7. Content Takedown Policy
 
-    Jsgenesis has established a policy for content takedowns in accordance with the Digital Millennium Copyright Act (DMCA) which can be viewed at [https://play.joystream.org/legal/copyright](https://play.joystream.org/legal/copyright).
+    Dynora has established a policy for content takedowns in accordance with the Digital Millennium Copyright Act (DMCA) which can be viewed at [https://dyn.ora/legal/copyright](https://dyn.ora/legal/copyright).
 
     ## 8. Governing Law
 
     These terms and conditions are governed by and construed in accordance with the laws of Norway.
+
   copyrightPolicy: |
     # DMCA Policy For Content Takedown
 
-    Jsgenesis AS, the developers of the Joystream protocol, have established a copyright infringement policy in accordance with the Digital Millennium Copyright Act.
+    Dynora AS, the developers of the Dynora platform, have established a copyright infringement policy in accordance with the Digital Millennium Copyright Act.
 
-    Copyright owners and their agents may notify us in cases where content hosted on our testnets (available publicly at [https://play.joystream.org](https://play.joystream.org) and [https://testnet.joystream.org](https://testnet.joystream.org)) infringes on their copyrights by sending a DMCA notice to us using the contact information below.
+    Copyright owners and their agents may notify us in cases where content hosted on our platform (available publicly at [https://dyn.ora](https://dyn.ora)) infringes on their copyrights by sending a DMCA notice to us using the contact information below.
 
-    Upon receipt of a valid and complete notice, we will remove the content from our public-facing applications as quickly as possible. We may also suspend the ability of the uploader to participate further on our testnet.
+    Upon receipt of a valid and complete notice, we will remove the content from our public-facing applications as quickly as possible. We may also suspend the ability of the uploader to participate further on our platform.
 
     Where possible, we will attempt to notify the alleged infringer of the takedown, with a copy of your DMCA Notice, using the contact information provided to us.
 
@@ -654,26 +654,18 @@ legal:
     Your DMCA Notice must include all of the following information:
     - A physical or electronic signature of the copyright owner, or a person authorized to act on behalf of the copyright owner;
     - Identification (URL) of the copyrighted work or material being infringed upon;
-    - Description of the work or material that you claim to be infringing and would like to be removed, including information regarding its location (URL) with enough detail so that we can and verify it;
+    - Description of the work or material that you claim to be infringing and would like to be removed, including information regarding its location (URL) with enough detail so that we can verify it;
     - Your full legal name, mailing address, telephone number, and email address where we can contact you;
     - A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
     - A statement that the information in your DMCA Notice is accurate, and under penalty of perjury, that you are the copyright owner or are authorized to act on behalf of the copyright owner.
 
     # DMCA Agent Information
 
-    Our dedicated email address for DMCA notifications is: abuse@jsgenesis.com.
-
-    Alternatively you can contact us by post:
-
-      Designated DMCA Agent Jsgenesis AS
-      CO UMA Workspace Stenersgata 8
-      Oslo, 0184 Norway
-
-    Or by telephone: **+44789553019**
+    Our dedicated email address for DMCA notifications is: abuse@dyn.ora.
 
     # DMCA Counter Notification
 
-    If your content has been mistakenly removed from our testnet, you can submit a DMCA Counter Notification using
+    If your content has been mistakenly removed from our platform, you can submit a DMCA Counter Notification using
     the same contact information shown above.
 
     Your DMCA Counter Notification must include all of the following information:
@@ -681,50 +673,45 @@ legal:
     - Identification (URL) of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled (the description from the DMCA Notice is acceptable);
     - A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled;
     - Your full legal name, mailing address, telephone number, and email address where we can contact you; and
-    - A statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which Jsgenesis may be found, and that you will accept service of process from the person who provided the DMCA Notice or an agent of such person.
+    - A statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which Dynora may be found, and that you will accept service of process from the person who provided the DMCA Notice or an agent of such person.
 
     If we receive valid DMCA Counter Notification that meets the above requirements, we will forward a copy to the
     person who filed the original DMCA Notice. If we do not receive notice within 10 business days that the person
     who submitted the DMCA Notice is seeking a court order to prevent the infringement of the content at issue, we
     will replace or re-enable access to the content that was removed.
 
-    # Content Licenses Supported By Joystream Platform
+    # Content Licenses Supported By Dynora Platform
 
-    1. Joystream Standard License
+    1. Dynora Standard License
 
-    Joystream Standard License is the default setting for all uploads. It allows creators to retain all ownership over their content, which published on Joystream network storage nodes, while giving any App built and operated by JS Genesis, Joystream DAO or external operators that work with Joystream Blockchain to broadcast this content.
+    Dynora Standard License is the default setting for all uploads. It allows creators to retain all ownership over their content, which is published on Dynora network storage nodes, while giving any App built and operated by Dynora or external operators that work with Dynora Blockchain the ability to broadcast this content.
 
-    For content automatically synced from YouTube via YouTube Partnership Program, YouTube Standard License is substituted by Joystream Standard License. 
+    2. CC0
 
-    2. CCO
-
-    The CC0 (Public Domain Dedication) License allows creators to waive all rights to their creations and release them into the Public Domain
-
-    For the synced videos with Creative Commons License, Auto-sync service assigns CCO license, explained below. 
-
-    More information can be found following [this link](https://creativecommons.org/share-your-work/public-domain/cc0)
+    The CC0 (Public Domain Dedication) License allows creators to waive all rights to their creations and release them into the Public Domain.
 
     3. Custom License
 
-    Joystream channel operator may choose to add custom license to the uploaded content.
+    Dynora channel operators may choose to add a custom license to uploaded content.
 
-    4.  Other Licenses
+    4. Other Licenses
 
-    Other licenses supported by Joystream are:
-    - PDM - Public Domain - For items which are not protected by copyright. This is not a license, but rather a copyright status. Some government-produced works, items with expired copyrights, and those which are ineligible for copyright protection may be included in this category.
-    - CC BY - Creative Commons Attribution License - Sharing and adapting this content is permitted, but attribution must be provided. Read the License Deed for more information.
-    - CC_BY_SA - Creative Commons Attribution-ShareAlike License - Sharing and adapting this content is permitted, but attribution must be provided. Any derivative works must be distributed under the same license. Read the License Deed for more information.
-    - CC_BY_ND - Creative Commons Attribution-NoDerivs License - Sharing this content is permitted, but attribution must be provided. You may not remix, transform, or build upon the material. Read the License Deed for more information.
-    - CC_BY_NC - Creative Commons Attribution-NonCommercial License. Sharing and adapting this content is permitted, but attribution must be provided. Commercial use is not permitted. Read the License Deed for more information.
-    - CC_BY_NC_SA - Creative Commons Attribution-NonCommercial-ShareAlike License - Sharing and adapting this content is permitted, but attribution must be provided. Any derivative works must be distributed under the same license. Commercial use is not permitted. Read the License Deed for more information.
-    - CC_BY_NC_ND - Creative Commons Attribution-NonCommercial-NoDerivs License. Sharing this content is permitted, but attribution must be provided. You may not remix, transform, or build upon the material. Commercial use is not permitted. Read the License Deed for more information.
+    Other licenses supported by Dynora are:
+    - PDM - Public Domain
+    - CC BY - Creative Commons Attribution License
+    - CC BY-SA - Creative Commons Attribution-ShareAlike License
+    - CC BY-ND - Creative Commons Attribution-NoDerivs License
+    - CC BY-NC - Creative Commons Attribution-NonCommercial License
+    - CC BY-NC-SA - Creative Commons Attribution-NonCommercial-ShareAlike License
+    - CC BY-NC-ND - Creative Commons Attribution-NonCommercial-NoDerivs License
 
     5. License Config File
 
-    Licenses supported may be updated at any time and full set of licenses that are available for selection in the App upon video upload or uploaded via Command Line interface are contained in [this file](https://github.com/Joystream/atlas/blob/master/packages/atlas/src/data/knownLicenses.json)
+    Licenses supported may be updated at any time. Full set of licenses that are available for selection in the App upon video upload or uploaded via Command Line interface are contained in [this file](https://github.com/Joystream/atlas/blob/master/packages/atlas/src/data/knownLicenses.json)
+
   privacyPolicy: |
     # 1. Privacy Policy
-    Last updated on the 9th of June 2023
+    Last updated on the 26th of November 2025
 
     ## 1.1 Agreement to the Policy
 
@@ -734,19 +721,20 @@ legal:
 
     ## 1.2 Changes to Policy
 
-    This Privacy Policy may be changed at the sole discretion of Company. If any material changes are made, the User will be notified in the Service that is used. Note that adding new products to be included in the term Software, e.g. a new User facing product replacing the App or a new tool for uploading Content, is not considered material as it will not affect Users unless they adopt the new product. Changing software names, terminology used in this Privacy Policy, and changing link locations are also examples of non-material changes.
+    This Privacy Policy may be changed at the sole discretion of Dynora. If any material changes are made, the User will be notified in the Service that is used. Note that adding new products to be included in the term Software, e.g. a new User facing product replacing the App or a new tool for uploading Content, is not considered material as it will not affect Users unless they adopt the new product. Changing software names, terminology used in this Privacy Policy, and changing link locations are also examples of non-material changes.
 
     ## 1.3 Information collected
 
-    All data written to the Blockchain, is implicitly collected not only by Company, but also anyone else in the world that is running the Full Node locally, or accessed via the App or a third party. This includes, but is not limited to, Content hashes, Membership profile, Memo field, and any other way a User can record data on the Blockchain. ‍
+    All data written to the Blockchain, is implicitly collected not only by Dynora, but also anyone else in the world that is running the Full Node locally, or accessed via the App or a third party. This includes, but is not limited to, Content hashes, Membership profile, Memo field, and any other way a User can record data on the Blockchain.
 
-    When using the faucet subpage of the Website, Company will record the IP address behind every new request for tokens. This data will be deleted every 14 days.
+    When using the faucet subpage of the Website, Dynora will record the IP address behind every new request for tokens. This data will be deleted every 14 days.
 
-    Company uses Google Analytics, with IP anonymization, to collect statistics on Website and the version of App hosted by us. All customisable data sharing settings are turned off to improve the privacy of Users.
+    Dynora uses Google Analytics, with IP anonymization, to collect statistics on Website and the version of App hosted by us. All customisable data sharing settings are turned off to improve the privacy of Users.
 
-    Company also uses Livesession to help us find bugs, improve UX and more by using session replays. Sensitive data such as passwords and IP addresses are anonymized.
+    Dynora also uses Livesession to help us find bugs, improve UX and more by using session replays. Sensitive data such as passwords and IP addresses are anonymized.
 
-    Company will not sell your data for advertising, or other purposes.
+    Dynora will not sell your data for advertising, or other purposes.
+
 
     # 2. Cookies Policy
 
