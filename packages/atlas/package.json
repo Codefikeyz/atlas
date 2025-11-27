@@ -150,6 +150,7 @@
     "@types/video.js": "^7.3.50",
     "@vitejs/plugin-react": "^3.0.0",
     "happy-dom": "^8.1.0",
+    "husky": "^8.0.3",
     "js-yaml": "^4.1.0",
     "madge": "^5.0.1",
     "postcss-syntax": "^0.36.2",
